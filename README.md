@@ -146,3 +146,6 @@ For questions or suggestions regarding this analysis, please open an issue in th
 
 ---
 *Last updated: 2024*
+
+
+![alt text](<Screenshot 2025-09-13 124525.png>) ![alt text](<Screenshot 2025-09-13 124532.png>) ![alt text](<Screenshot 2025-09-13 124541.png>) ![alt text](<Screenshot 2025-09-13 124548.png>) ![alt text](<Screenshot 2025-09-13 124556.png>) ![alt text](<Screenshot 2025-09-13 124604.png>) ![alt text](<Screenshot 2025-09-13 124613.png>) ![alt text](<Screenshot 2025-09-13 124631.png>)
