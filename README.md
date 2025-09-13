@@ -100,6 +100,34 @@ BlockseBlock-labs/
 - **Correlation Analysis**: Multi-dimensional relationships
 - **Technical Analysis**: Moving average crossovers and trends
 
+## Key Visualizations
+
+### Stock Price Analysis
+![Tata Motors Closing Price Over Time](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/close_price_trend.png)
+*Historical closing price showing significant volatility and multiple boom-bust cycles over 30 years*
+
+![Close Price with Moving Averages](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/moving_averages.png)
+*Price trends with 20-day and 50-day moving averages for technical analysis*
+
+### Trading Volume Analysis
+![Trading Volume Over Time](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/volume_trend.png)
+*Trading volume evolution showing dramatic increase in activity, especially post-2016*
+
+![Distribution of Trading Volume](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/volume_distribution.png)
+*Volume distribution showing heavy concentration at lower volumes with occasional spikes*
+
+### Risk and Return Analysis
+![Distribution of Daily Returns](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/returns_distribution.png)
+*Daily returns distribution showing right-skewed pattern with heavy negative tail*
+
+### Correlation Analysis
+![Correlation Heatmap](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/correlation_heatmap.png)
+*Correlation matrix showing relationships between different financial metrics*
+
+### Multi-dimensional Analysis
+![Pairplot of Key Financial Features](https://github.com/Shekhar582-cyber/Task-3/blob/main/images/pairplot.png)
+*Comprehensive pairplot showing relationships between Open, High, Low, Close prices and Volume*
+
 ## Future Enhancements
 - [ ] Machine learning models for price prediction
 - [ ] Risk analysis and portfolio optimization
